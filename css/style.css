@@ -26,6 +26,12 @@ h2 {
     word-spacing: 10px;
 }
 
+h3 {
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
 a:hover {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
@@ -35,8 +41,22 @@ a:hover {
 
 table {
     align-self:center;
+    margin:5%;
+}
+
+.caption {
+    padding-bottom: 3%;
 }
 
 img {
-    width:60%;
+    width:100%;
 }
+
+#navWrap {
+    height: 50px;
+}
+#nav {
+    padding: 5px;
+    background: #ffffff;
+}
+
