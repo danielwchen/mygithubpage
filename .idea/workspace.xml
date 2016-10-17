@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c8e3be-feeb-45fe-86b8-64bd7e7c2311" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/20161007-_MG_1486.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1467-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1469.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1474.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1536-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1614.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1647.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1655.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/peopleplaces/_MG_1714.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Events/soiree/6.jpg" afterPath="$PROJECT_DIR$/img/Events/soiree/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Events/soiree/7.jpg" afterPath="$PROJECT_DIR$/img/Events/soiree/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Events/soiree/8.jpg" afterPath="$PROJECT_DIR$/img/Events/soiree/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Events/soiree/9.jpg" afterPath="$PROJECT_DIR$/img/Events/soiree/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Projects/366challenge/4.jpg" afterPath="$PROJECT_DIR$/img/Projects/366challenge/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Projects/366challenge/5.jpg" afterPath="$PROJECT_DIR$/img/Projects/366challenge/5.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="portfolio.iws" />
@@ -43,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="313" column="9" selection-start-line="313" selection-start-column="9" selection-end-line="313" selection-end-column="9" />
+            <state relative-caret-position="315">
+              <caret line="31" column="106" selection-start-line="31" selection-start-column="106" selection-end-line="31" selection-end-column="106" />
               <folding>
                 <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -261,12 +246,12 @@
       <workItem from="1476375337958" duration="370000" />
       <workItem from="1476471847096" duration="926000" />
       <workItem from="1476627214798" duration="4208000" />
-      <workItem from="1476671599775" duration="5413000" />
+      <workItem from="1476671599775" duration="5531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10917000" />
+    <option name="totallyTimeSpent" value="11035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1276" height="777" extended-state="6" />
@@ -374,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="313" column="9" selection-start-line="313" selection-start-column="9" selection-end-line="313" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="31" column="106" selection-start-line="31" selection-start-column="106" selection-end-line="31" selection-end-column="106" />
           <folding>
             <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
