@@ -47,6 +47,9 @@ table {
 .caption {
     padding-bottom: 3%;
 }
+td {
+    padding: .5%;
+}
 
 img {
     width:100%;

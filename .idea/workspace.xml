@@ -2,15 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c8e3be-feeb-45fe-86b8-64bd7e7c2311" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Art/20160816-DSC_2546.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Art/DSC_0066.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Art/DSC_0093 (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Art/DSC_0211-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Art/DSC_0259-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/DSC_0023.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/DSC_0037-2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Art/1.jpg" afterPath="$PROJECT_DIR$/img/Art/1.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/ewc/20160909-DSC_2688.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/ewc/20160909-DSC_2705.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/ewc/20160909-DSC_2787.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/ewc/20160909-DSC_2921.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/ewc/20160909-DSC_2973.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/ewc/20160909-DSC_3066.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/ewc/20160909-DSC_3124.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/football/20160916-DSC_4472.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/football/20160916-DSC_4652.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/football/20160916-DSC_4672.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/football/20160916-DSC_4684.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_0020.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7118.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7134.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7138.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7201.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7215.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7240.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7358.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Events/soiree/20160521-DSC_7384.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20150919-DSC_0043.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20150919-DSC_0163.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20160421-DSC_0048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20160618-DSC_0207.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20160618-DSC_0216.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20160715-DSC_1133.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20160816-DSC_2516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/20160816-DSC_2532.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/DSC_0016 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/DSC_0033 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/People/DSC_0084 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160630-DSC_0656.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160630-DSC_0672.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160705-DSC_0815.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160705-DSC_0825-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160706-DSC_0842.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160706-DSC_0843.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160708-DSC_0872.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Places/20160816-DSC_2480.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/20160615-DSC_0052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/20160624-DSC_0383.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/20161015-_MG_1896.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/DSC_0010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/DSC_0015-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/366challenge/DSC_0107.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/PBPSS/DSC_0006 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/PBPSS/DSC_0017 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/PBPSS/DSC_0064 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/PBPSS/DSC_0083 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/PBPSS/DSC_0109 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Projects/PBPSS/IMG_0441 (1).jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/People/2.jpg" afterPath="$PROJECT_DIR$/img/People/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/People/3.jpg" afterPath="$PROJECT_DIR$/img/People/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/People/4.jpg" afterPath="$PROJECT_DIR$/img/People/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/People/6.jpg" afterPath="$PROJECT_DIR$/img/People/6.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="portfolio.iws" />
@@ -37,9 +88,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="100" column="45" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="381">
+              <caret line="146" column="49" selection-start-line="146" selection-start-column="49" selection-end-line="146" selection-end-column="49" />
+              <folding>
+                <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,8 +100,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="320">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -57,7 +110,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="375">
               <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
@@ -80,8 +133,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/p-people.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -122,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,7 +225,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,6 +258,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -243,12 +302,13 @@
       <updated>1476375335192</updated>
       <workItem from="1476375337958" duration="370000" />
       <workItem from="1476471847096" duration="926000" />
-      <workItem from="1476627214798" duration="3861000" />
+      <workItem from="1476627214798" duration="4208000" />
+      <workItem from="1476671599775" duration="2124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5157000" />
+    <option name="totallyTimeSpent" value="7628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1276" height="777" extended-state="6" />
@@ -290,9 +350,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
+          <folding>
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -306,7 +394,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="375">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
@@ -314,17 +402,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="320">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="100" column="45" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="381">
+          <caret line="146" column="49" selection-start-line="146" selection-start-column="49" selection-end-line="146" selection-end-column="49" />
+          <folding>
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
