@@ -26,6 +26,12 @@ h2 {
     word-spacing: 10px;
 }
 
+span .current {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color:black;
+}
+
 h3 {
     margin:0;
     padding:0;
@@ -58,8 +64,14 @@ img {
 #navWrap {
     height: 50px;
 }
+
 #nav {
-    padding: 5px;
+    padding-top:1px;
+    padding-bottom: 10px;
     background: #ffffff;
+}
+
+.bigrow {
+    margin:5%;
 }
 
